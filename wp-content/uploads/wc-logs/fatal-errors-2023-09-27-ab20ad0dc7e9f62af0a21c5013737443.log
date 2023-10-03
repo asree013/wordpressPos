@@ -1,0 +1,4 @@
+2023-09-27T09:55:44+00:00 CRITICAL Out of memory (allocated 69206016) (tried to allocate 32768 bytes) in C:\laragon\www\pos\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\orm\lib\Doctrine\ORM\Internal\Hydration\ObjectHydrator.php on line 1
+
+2023-09-27T09:56:02+00:00 CRITICAL Out of memory (allocated 69206016) (tried to allocate 32768 bytes) in C:\laragon\www\pos\wp-content\plugins\mailpoet\lib\Automation\Integrations\Core\Filters\DateTimeFilter.php on line 1
+
